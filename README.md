@@ -1,6 +1,4 @@
-# Koushik Sagar's Portfolio 🚀
-
-![Portfolio GIF](images/portfolio.gif)
+# HTML and JS Portfolio 🚀
 
 Welcome to my awesome portfolio website! 🎉 Here, you'll find information about me, my projects, and how to get in touch. Let's dive in! 💼
 
@@ -13,7 +11,7 @@ Hey there! I'm Koushik Sagar, a 19-year-old dynamo with a passion for gaming �
 
 Want to collaborate or just say hi? Don't hesitate to reach out:
 
-- Email: koushik@example.com 📧
+- Email: shadowslayerryt@gmail.com 📧
 - Website: https://shadowslayerryt.wixsite.com/shadowslayerr 🔗
 
 Let's connect and create something amazing together! 🚀
